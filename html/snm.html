@@ -1,13 +1,37 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>
-
-  </h1>
-  <h2>https://pastebin.com/u/Sodanomore</h2>
-
-
-
-
-</body>
+	<head>
+		<meta charset="UTF-8">
+		
+		<title>相对位置</title>
+		<style type="text/css">
+			/*相对位置：他是相对于原来的位置。*/
+			body{
+				padding: 100px;
+				margin: 0px;
+			}
+			div{
+				width: 200px;
+				height: 200px;
+				
+			}
+			#d{
+				border: 3px dotted red;
+			}
+			#d1{
+				border: 1px solid red;
+				position: relative;
+				left: 50px;
+				top: 50px;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="d">
+			<p>你好</p>
+		</div>
+		<div id="d1">
+			
+		</div>
+	</body>
 </html>
