@@ -4,6 +4,8 @@
    内容：
     我的：贴图，贴游戏log，贴资料书签。
     猫：视频整理，相册。。。
+    
+    一个长期计划：Starsoul 云虫 VON
 BGM：
 <audio src="song.ogg" controls="controls">
 Your browser does not support the audio tag.
